@@ -1,10 +1,10 @@
 {
-    "hueLower": 79,
-    "hueUpper": 118,
-    "hue2Lower": 92,
-    "hue2Upper": 121,
-    "satLow": 81,
+    "hueLower": 0,
+    "hueUpper": 15,
+    "hue2Lower": 165,
+    "hue2Upper": 179,
+    "satLow": 175,
     "satHigh": 255,
-    "valLow": 100,
+    "valLow": 126,
     "valHigh": 255
 }
